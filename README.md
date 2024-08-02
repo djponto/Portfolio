@@ -1,4 +1,4 @@
-## [Your Name] Porfolio
+## [George Ofosu] Porfolio
 
 # Portfolio
 
