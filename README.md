@@ -19,7 +19,7 @@ Hi, I'm George Ofosu and this is my Cyber Security Portfolio. I am currently see
 | Compliance and Reporting | Ensured compliance with relevant regulatory requirements and industry standards during incident response activities.  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 | Continuous Improvement |Conducted post-incident reviews to identify areas for improvement and enhance incident response capabilities. | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 | Security Tool Management | Managed and maintained security tools and technologies, such as SIEM, EDR, and threat intelligence platforms.  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-| xxxxxxxxxxxxxxxxxxx | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| xxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxx  | xxxxxxxxxxx| xxxxxxxxxxxxxxxxxxxxxxxxxxx   |
 
 
 
