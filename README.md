@@ -9,8 +9,8 @@ Hi, I'm George Ofosu and this is my Cyber Security Portfolio. I am currently see
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Incident Detection and Analysis | Monitored and analyzed security alerts from various sources, including SIEM systems, IDS/IPS, and endpoint security tools.  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-| Incident Response and Mitigation                |                                       |                 |                 |
-| Forensic Analysis                |                                       |                 |                 |
+| Incident Response and Mitigation |Led and coordinated incident response efforts, including containment, eradication, and recovery. |                 |                 |
+| Forensic Analysis                | Performed digital forensic analysis on compromised systems to determine the extent of the breach and identify the root cause.  |                 |                 |
 | Threat Hunting | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 | Security Incident Documentation | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 | Security Awareness and Training | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
