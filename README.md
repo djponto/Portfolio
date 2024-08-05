@@ -1,4 +1,4 @@
-## [George Ofosu] Porfolio
+## George Ofosu Porfolio
 
 # Portfolio
 
