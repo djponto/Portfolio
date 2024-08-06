@@ -31,7 +31,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 | --------------------  | -------------------------------------- | ---------------| 
 | CompTIA Security+     |                03/2020                |      [Security+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)      | 
 | eJPT                  |                03/2021                |      [eJPT](https://elearnsecurity.com/verify-certificate/)        | 
-| CompTIA CySA+     |                   04/2024                |     [CySa+](https://www.credly.com/badges/b019695c-75b4-4e84-b3a6-1f50f1a5265e        | 
+| CompTIA CySA+     |                   04/2024                |      [CySA+](https://www.credly.com/badges/b019695c-75b4-4e84-b3a6-1f50f1a5265e        | 
 | CompTIA Pentest+     |                05/2024                |     [Pentest+](https://www.credly.com/earner/earned/badge/8d3c795d-156a-4627-b08a-df4791a9d74b)        | 
 | CompTIA CASP+     |                   06/2024                |     [CASP+](https://www.credly.com/badges/ef81530f-51ce-4da7-833a-4d3308664bc0/public_url)        | 
 
