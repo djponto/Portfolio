@@ -29,7 +29,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                03/2020                |     https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile       | 
+| CompTIA Security+     |                03/2020                |      [Security+](https://www.credly.com/badges/5e8c888a-3357-45df-80e0-e38619a4d3e0?source=linked_in_profile)      | 
 | CompTIA Security+     |                xx/xx/xx                |     xxx        | 
 | CompTIA Security+     |                xx/xx/xx                |     xxx        | 
 | CompTIA Security+     |                xx/xx/xx                |     xxx        | 
