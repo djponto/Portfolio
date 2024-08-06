@@ -25,7 +25,7 @@ Hi, I'm George Ofosu and this is my Cyber Security Portfolio. I am currently see
 
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
+
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
@@ -34,4 +34,5 @@ List our your certifications and/or link to them. Also include the ones you plan
 | CompTIA CySA+     |                   04/2024                |      [CySA+](https://www.credly.com/badges/b019695c-75b4-4e84-b3a6-1f50f1a5265e)        | 
 | CompTIA Pentest+     |                05/2024                |     [Pentest+](https://www.credly.com/earner/earned/badge/8d3c795d-156a-4627-b08a-df4791a9d74b)        | 
 | CompTIA CASP+     |                   06/2024                |     [CASP+](https://www.credly.com/badges/ef81530f-51ce-4da7-833a-4d3308664bc0/public_url)        | 
-
+| CEH     |                             In Progress                |           | 
+| CISSP     |                   In Progress               |     [CASP+](https://www.credly.com/badges/ef81530f-51ce-4da7-833a-4d3308664bc0/public_url)        | 
