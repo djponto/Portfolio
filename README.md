@@ -35,4 +35,4 @@ Hi, I'm George Ofosu and this is my Cyber Security Portfolio. I am currently see
 | CompTIA Pentest+     |                05/2024                |     [Pentest+](https://www.credly.com/earner/earned/badge/8d3c795d-156a-4627-b08a-df4791a9d74b)        | 
 | CompTIA CASP+     |                   06/2024                |     [CASP+](https://www.credly.com/badges/ef81530f-51ce-4da7-833a-4d3308664bc0/public_url)        | 
 | CEH     |                             In Progress                |           | 
-| CISSP     |                   In Progress               |     [CASP+](https://www.credly.com/badges/ef81530f-51ce-4da7-833a-4d3308664bc0/public_url)        | 
+| CISSP     |                   In Progress               |          | 
